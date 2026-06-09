@@ -5,6 +5,8 @@
 因为我很懒所以用了cursor打辅助，但是这玩意不是vibe的是我手搓的
 （MIUI14的动画那么好看怎么没有人做模块的）
 
+平板版在这里 → [MIUI14-bootanimate-module-pad](https://github.com/ZenoRasta/MIUI14-bootanimate-module-pad)
+
 ---
 
 ## 中文
@@ -46,6 +48,8 @@
 ## English
 
 A Magisk / KernelSU module that replaces the **HyperOS 3** boot animation with the classic **MIUI 14** style.
+
+Tablet version → [MIUI14-bootanimate-module-pad](https://github.com/ZenoRasta/MIUI14-bootanimate-module-pad)
 
 ### Features
 

@@ -1,0 +1,6 @@
+id=miui14_bootanimation
+name=MIUI14样式开机动画
+version=v2.0
+versionCode=20
+author=ZenoRasta
+description=替换HyperOS3开机动画为MIUI14样式
